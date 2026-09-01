@@ -7,7 +7,6 @@
 "LogOut" = "登出";
 "LogOutTitle" = "登出";
 "LogOutMessage" = "您確定要繼續嗎？";
-"FeaturesNotActivated" = "您尚未登入。請使用具備有效訂閱的帳號登入，以使用 YouTube Plus 功能。";
 
 /* Main section */
 "Main" = "主要";
@@ -612,9 +611,6 @@
 "ClearCacheAtStartDesc" = "開啟Youtube時，自動清除快取";
 "ClearCache" = "清除快取";
 
-"NoDonationReminder" = "停用捐款提醒";
-"NoDonationReminderDesc" = "關閉偶爾顯示的捐款提醒";
-
 "ShortsOnlyWarning" = "您確定要開啟此模式嗎?\n\n在此模式下，您只能觀看Shorts影片，無法進行其它操作。\n\n您可以在Shorts播放器中使用兩指長按來停用只看Shorts模式。";
 "ShortsModeTurnedOff" = "已關閉「只看Shorts模式」";
 
@@ -731,5 +727,3 @@
 "Conflicts.SkipThisVersion" = "此版本不再顯示";
 "Conflicts.AcceptRisks" = "我接受所有風險";
 "Conflicts.CloseYT" = "關閉YouTube";
-
-"DonationReminder" = "您的支持有助於讓YouTube Plus變得更好。\n\n你可以在YouTube Plus的設定裡面，選擇捐款或關閉這些通知。謝謝你💜";

@@ -7,7 +7,6 @@
 "LogOut" = "Выйти";
 "LogOutTitle" = "Выход";
 "LogOutMessage" = "Уверены, что хотите продолжить?";
-"FeaturesNotActivated" = "Вы не вошли в аккаунт. Для доступа к функциям YouTube Plus войдите с активной подпиской.";
 
 /* Main section */
 "Main" = "Основные";
@@ -612,9 +611,6 @@
 "ClearCacheAtStartDesc" = "Автоматическая очистка кеша при каждом запуске.";
 "ClearCache" = "Очистить кеш";
 
-"NoDonationReminder" = "Не напоминать о донате";
-"NoDonationReminderDesc" = "Отключает изредка появляющиеся напоминания о пожертвовании.";
-
 "ShortsOnlyWarning" = "Вы уверены, что хотите активировать данный режим?\n\nВ данном режиме вы не сможете ничего делать, кроме как смотреть видеоролики Shorts.\n\nРежим Shorts можно будет отключить зажав в плеере двумя пальцами.";
 "ShortsModeTurnedOff" = "Режим Shorts был отключен";
 
@@ -731,5 +727,3 @@
 "Conflicts.SkipThisVersion" = "Не показывать для текущей версии";
 "Conflicts.AcceptRisks" = "Я принимаю все риски";
 "Conflicts.CloseYT" = "Закрыть YouTube";
-
-"DonationReminder" = "Ваша поддержка помогает делать YouTube Plus лучше.\n\nВы можете внести свой вклад или отключить данное напоминание в настройках YouTube Plus. Спасибо💜";

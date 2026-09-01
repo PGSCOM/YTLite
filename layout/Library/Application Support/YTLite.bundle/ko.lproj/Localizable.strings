@@ -7,7 +7,6 @@
 "LogOut" = "Log out";
 "LogOutTitle" = "Log out";
 "LogOutMessage" = "Are you sure you want to continue?";
-"FeaturesNotActivated" = "You are not logged in. To access YouTube Plus features, please log in with an active subscription.";
 
 /* Main section */
 "Main" = "메인";
@@ -612,9 +611,6 @@
 "ClearCacheAtStartDesc" = "시작 시 자동으로 캐시를 지웁니다.";
 "ClearCache" = "캐시 지우기";
 
-"NoDonationReminder" = "기부 알림 비활성화";
-"NoDonationReminderDesc" = "거의 표시되지 않는 기부 알림을 끕니다.";
-
 "ShortsOnlyWarning" = "이 모드를 활성화하시겠습니까?\n\n이 모드에서는 Shorts 동영상만 볼 수 있고 다른 작업은 할 수 없습니다.\n\nShorts만 보기 모드를 해제하려면 Shorts 플레이어에서 두 손가락을 길게 누르세요.";
 "ShortsModeTurnedOff" = "Shorts Only Mode has been turned off";
 
@@ -731,8 +727,6 @@
 "Conflicts.SkipThisVersion" = "이 버전에 대해서는 표시하지 마세요";
 "Conflicts.AcceptRisks" = "모든 위험을 받아들입니다";
 "Conflicts.CloseYT" = "YouTube를 닫습니다";
-
-"DonationReminder" = "여러분의 지원이 YouTube Plus를 더욱 발전시키는 데 도움이 됩니다.\n\nYouTube Plus 설정에서 이 알림을 활성화하거나 비활성화할 수 있습니다. 감사합니다💜";
 
 /* Old localizations (commented out for reference)
 "ExtraSpeedOptions" = "재생 속도 옵션 추가";

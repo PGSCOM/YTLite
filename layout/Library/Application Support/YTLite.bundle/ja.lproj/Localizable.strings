@@ -7,7 +7,6 @@
 "LogOut" = "Log out";
 "LogOutTitle" = "Log out";
 "LogOutMessage" = "Are you sure you want to continue?";
-"FeaturesNotActivated" = "You are not logged in. To access YouTube Plus features, please log in with an active subscription.";
 
 /* Main section */
 "Main" = "メイン";
@@ -612,9 +611,6 @@
 "ClearCacheAtStartDesc" = "起動時に自動的にキャッシュを削除します。";
 "ClearCache" = "キャッシュを削除";
 
-"NoDonationReminder" = "寄付のリマインダーを無効化";
-"NoDonationReminderDesc" = "ほとんど表示されない寄付のリマインダーを非表示にします。";
-
 "ShortsOnlyWarning" = "このモードを有効にしてもよろしいですか?\n\nこのモードでは、ショート動画の視聴のみが可能で、他の操作は行えません。\n\nショートプレーヤーで 2 本の指で長押しすると、ショート専用モードを無効にできます。";
 "ShortsModeTurnedOff" = "ショートのみモードがオフになりました。";
 
@@ -731,8 +727,6 @@
 "Conflicts.SkipThisVersion" = "このバージョンでは表示しない";
 "Conflicts.AcceptRisks" = "すべてのリスクを受け入ます";
 "Conflicts.CloseYT" = "YouTube を閉じる";
-
-"DonationReminder" = "皆さんのご支援が YouTube Plus の更なる改善に繋がります。\n\n寄付を行うか、YouTube Plus 設定でこれらの通知を無効にすることもできます。ご支援ありがとうございます💜";
 
 /* Old localizations (commented out for reference)
 "ExtraSpeedOptions" = "再生速度の追加オプション";

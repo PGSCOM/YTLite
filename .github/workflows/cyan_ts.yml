@@ -52,7 +52,7 @@ on:
         default: false
 
       tweak_version:
-        description: "The version of the tweak to use. Enter the version manually from dayanch96/YTLite/releases or leave default"
+        description: "Version label used for the output file and release name (the tweak is always built from this repository's source)"
         default: "5.2.2"
         required: true
         type: string
@@ -83,7 +83,6 @@ jobs:
       enable_ryd: ${{ inputs.enable_ryd }}
       enable_ytabc: ${{ inputs.enable_ytabc }}
       enable_demc: ${{ inputs.enable_demc }}
-      tweak_version: ${{ inputs.tweak_version }}
 
   package:
     name: Generate Cyan/TrollFools

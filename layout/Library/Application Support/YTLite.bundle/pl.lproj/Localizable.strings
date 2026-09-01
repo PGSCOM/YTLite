@@ -7,7 +7,6 @@
 "LogOut" = "Wyloguj";
 "LogOutTitle" = "Wylogowanie";
 "LogOutMessage" = "Czy na pewno chcesz kontynuować?";
-"FeaturesNotActivated" = "Nie jesteś zalogowany. Aby uzyskać dostęp do funkcji YouTube Plus zaloguj się z aktywną subskrypcją.";
 
 /* Main section */
 "Main" = "Główne";
@@ -612,9 +611,6 @@
 "ClearCacheAtStartDesc" = "Automatycznie czyści pamięć podręczną przy starcie.";
 "ClearCache" = "Wyczyść pamięć podręczną";
 
-"NoDonationReminder" = "Wyłącz przypomnienie o darowiznach";
-"NoDonationReminderDesc" = "Wyłącza rzadko pokazywane przypomnienie o darowiznach.";
-
 "ShortsOnlyWarning" = "Czy na pewno chcesz aktywować ten tryb?\n\nW tym trybie będziesz mógł oglądać tylko filmy Shorts i nie będziesz mógł nic więcej zrobić.\n\nMożesz wyłączyć tryb tylko Shorts, długo naciskając dwoma palcami w odtwarzaczu Shorts.";
 "ShortsModeTurnedOff" = "Tryb tylko Shorts został wyłączony";
 
@@ -731,5 +727,3 @@
 "Conflicts.SkipThisVersion" = "Nie pokazuj dla tej wersji";
 "Conflicts.AcceptRisks" = "Akceptuję wszystkie ryzyka";
 "Conflicts.CloseYT" = "Zamknij YouTube";
-
-"DonationReminder" = "Twoje wsparcie pomaga uczynić YouTube Plus jeszcze lepszym.\n\nMożesz wesprzeć lub wybrać wyłączenie tych powiadomień w ustawieniach YouTube Plus. Dziękuję💜";

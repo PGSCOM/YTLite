@@ -7,7 +7,6 @@
 "LogOut" = "Đăng xuất";
 "LogOutTitle" = "Đăng xuất";
 "LogOutMessage" = "Bạn có chắc chắn muốn tiếp tục không?";
-"FeaturesNotActivated" = "Bạn hiện chưa đăng nhập. Để sử dụng được các tính năng của YouTube Plus, vui lòng đăng nhập bằng tài khoản có gói đăng ký đang hoạt động.";
 
 /* Main section */
 "Main" = "Cài đặt chính";
@@ -612,9 +611,6 @@
 "ClearCacheAtStartDesc" = "Tự động xóa bộ nhớ đệm khi khởi động ứng dụng.";
 "ClearCache" = "Xóa bộ nhớ đệm";
 
-"NoDonationReminder" = "Tắt nhắc nhở quyên góp";
-"NoDonationReminderDesc" = "Tắt lời nhắc quyên góp, thông báo này hiếm khi được hiển thị.";
-
 "ShortsOnlyWarning" = "Bạn có chắc chắn muốn bật chế độ video ngắn?\n\nTrong chế độ này, bạn chỉ có thể xem video ngắn và không thể làm gì khác.\n\nBạn có thể tắt chế độ này bằng cách nhấn giữ hai ngón tay lên màn hình.";
 "ShortsModeTurnedOff" = "Đã tắt chế độ video ngắn";
 
@@ -731,5 +727,3 @@
 "Conflicts.SkipThisVersion" = "Không hiển thị trong phiên bản này";
 "Conflicts.AcceptRisks" = "Tôi chấp nhận mọi rủi ro";
 "Conflicts.CloseYT" = "Thoát YouTube";
-
-"DonationReminder" = "Sự hỗ trợ của bạn sẽ giúp YouTube Plus ngày một tốt hơn.\n\nBạn có thể chọn quyên góp ngay hoặc tắt thông báo này trong cài đặt YouTube Plus. Cảm ơn bạn 💜";

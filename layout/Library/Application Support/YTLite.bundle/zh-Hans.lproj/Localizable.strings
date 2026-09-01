@@ -7,7 +7,6 @@
 "LogOut" = "退出登录";
 "LogOutTitle" = "退出登录";
 "LogOutMessage" = "您确定要继续吗？";
-"FeaturesNotActivated" = "您尚未登录。要访问 YouTube Plus 功能，请使用有效订阅登录。";
 
 /* Main section */
 "Main" = "主功能";
@@ -612,9 +611,6 @@
 "ClearCacheAtStartDesc" = "“YouTube”启动时自动清除缓存。";
 "ClearCache" = "清除缓存";
 
-"NoDonationReminder" = "禁用捐赠提醒";
-"NoDonationReminderDesc" = "关闭偶尔显示的捐赠提醒。";
-
 "ShortsOnlyWarning" = "确定要激活此模式吗？\n\n在此模式下，将只能观看短视频，且无法执行任何其他操作。\n\n可以通过双指长按禁用“仅短视频模式”。";
 "ShortsModeTurnedOff" = "仅短视频模式已关闭";
 
@@ -731,5 +727,3 @@
 "Conflicts.SkipThisVersion" = "跳过此版本";
 "Conflicts.AcceptRisks" = "我接受所有风险";
 "Conflicts.CloseYT" = "关闭 YouTube";
-
-"DonationReminder" = "您的支持能让 YouTube Plus 变得更好。\n\n您可以在 YouTube Plus 设置中选择捐赠或选择关闭这些通知。谢谢💜";
