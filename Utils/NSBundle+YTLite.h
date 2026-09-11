@@ -1,5 +1,11 @@
 #import <Foundation/Foundation.h>
+#if __has_include(<roothide.h>)
 #import <roothide.h>
+#elif __has_include(<rootless.h>)
+#import <rootless.h>
+#else
+static inline NSString *jbroot(NSString *path) { return path; }
+#endif
 
 NS_ASSUME_NONNULL_BEGIN
 
